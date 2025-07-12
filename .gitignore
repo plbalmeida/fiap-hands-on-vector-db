@@ -1,0 +1,5 @@
+chroma
+chromadb
+data/*
+.env
+venv

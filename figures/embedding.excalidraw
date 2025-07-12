@@ -1,0 +1,199 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "rUDTFvUe245Az2XZx5Ide",
+      "type": "text",
+      "x": 1727.315945083166,
+      "y": 416.5533009667872,
+      "width": 632.5000000000002,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b1s",
+      "roundness": null,
+      "seed": 1607299582,
+      "version": 75,
+      "versionNonce": 106021630,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "IEzfg4TCMzAc8VRTfgMjS",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1752291971572,
+      "link": null,
+      "locked": false,
+      "text": "\"Movies about climate change\"",
+      "fontSize": 36,
+      "fontFamily": 8,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "\"Movies about climate change\"",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "0vhL2ZRXlnM_AiviEXILF",
+      "type": "text",
+      "x": 1997.3159450831663,
+      "y": 747.8033009667872,
+      "width": 617.5000000000002,
+      "height": 180,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b1t",
+      "roundness": null,
+      "seed": 1376723262,
+      "version": 250,
+      "versionNonce": 1586363618,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "IEzfg4TCMzAc8VRTfgMjS",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1752298299574,
+      "link": null,
+      "locked": false,
+      "text": "[0.012156464456879854,\n 0.000648888846888440,\n 0.000154879879872550,\n...]",
+      "fontSize": 36,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "[0.012156464456879854,\n 0.000648888846888440,\n 0.000154879879872550,\n...]",
+      "autoResize": false,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "IEzfg4TCMzAc8VRTfgMjS",
+      "type": "arrow",
+      "x": 2081.919934245143,
+      "y": 476.55330096678716,
+      "width": 87.17810685935092,
+      "height": 256.25000000000006,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b1u",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 845716542,
+      "version": 149,
+      "versionNonce": 923670718,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "PfychaF_VWutCPPzGL1mI"
+        }
+      ],
+      "updated": 1752291998346,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2.896010838023358,
+          145.00000000000006
+        ],
+        [
+          87.17810685935092,
+          256.25000000000006
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "rUDTFvUe245Az2XZx5Ide",
+        "focus": -0.07915252682747961,
+        "gap": 15
+      },
+      "endBinding": {
+        "elementId": "0vhL2ZRXlnM_AiviEXILF",
+        "focus": -0.29849771391247343,
+        "gap": 15
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "PfychaF_VWutCPPzGL1mI",
+      "type": "text",
+      "x": 2000.3997244838029,
+      "y": 548.4283009667872,
+      "width": 178.19989013671875,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b1v",
+      "roundness": null,
+      "seed": 1564823906,
+      "version": 11,
+      "versionNonce": 1560490658,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1752291984971,
+      "link": null,
+      "locked": false,
+      "text": "Embedding",
+      "fontSize": 36,
+      "fontFamily": 8,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "IEzfg4TCMzAc8VRTfgMjS",
+      "originalText": "Embedding",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
