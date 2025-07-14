@@ -56,7 +56,3 @@ OPENAI_API_KEY=<SUA CHAVE DA OPENAI>
 #### 5. Execute o notebook
 
 Abra o Jupyter Notebook ou VS Code com o kernel do ambiente ativado e execute o `notebook.ipynb`.
-
-```bash
-jupyter notebook notebook.ipynb
-```
